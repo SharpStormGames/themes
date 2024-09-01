@@ -1,0 +1,23 @@
+{
+    "name": "Theme",
+    "is_dark": true,
+    "colors": {
+     "accent-color": "#09EAF9",
+     "primary-color": "#ffffff",
+     "sidebar-color": "#171717",
+     "warning-color": "#ffffff",
+     "secondary-content": "#969696",
+     "tertiary-content": "#969696",
+     "quinary-content": "#505050",
+     "roomlist-background-color": "#171717",
+     "roomlist-text-color": "#ffffff",
+     "roomlist-text-secondary-color": "#969696",
+     "roomlist-highlights-color": "#171717",
+     "roomlist-separator-color": "#202020",
+     "timeline-background-color": "#171717",
+     "timeline-text-color": "#ffffff",
+     "timeline-text-secondary-color": "#969696",
+     "menu-selected-color": "#202020",
+     "icon-button-color": "#202020"
+    }
+}
